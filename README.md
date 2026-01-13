@@ -1,74 +1,119 @@
-<h1 align="center">ASHISH CHAVANKE</h1>
-<h3 align="center">cyberash17</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-Cybersecurity Student | CTF Player | Ethical Hacking | Offensive Security & Bug Bounty Enthusiast
+  <img src="https://media.giphy.com/media/dCBZtA2iuNqZW/giphy.gif" width="65%" height="auto"/>
 </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'm+Ashish+Chavanke;cyberash17;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 👋 Hi there
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I’m **Ashish Chavanke**, a **Cybersecurity student** with a strong interest in  
+I'm **Ashish Chavanke** (**cyberash17**), a **Cybersecurity student** with strong interest in  
 **ethical hacking, offensive security, CTFs, and bug bounty hunting**.
 
-I enjoy learning by **doing** — practicing attacks in labs, solving CTF challenges,  
-and understanding how real-world vulnerabilities work.
+I focus on **hands-on learning** — practicing attacks in labs, solving CTF challenges,  
+and understanding how real-world vulnerabilities work in web and systems security.
+
+---
+
+<details>
+<summary>💫 More About Me</summary>
+
+- **Name:** Ashish Chavanke  
+- **From:** India 🇮🇳  
+- **Role:** Cybersecurity Student | CTF Player  
+- **Interests:** Ethical Hacking, Offensive Security, Bug Bounty  
+
+**Currently Learning & Practicing:**
+- Web Security (SQL Injection, XSS basics)
+- CTF problem solving
+- Kali Linux tools & workflows
+- Reconnaissance & enumeration
+- Offensive security fundamentals
+
+</details>
 
 ---
 
 ## 📌 Present Status
 
-- 🎓 Studying Cybersecurity fundamentals  
-- 🧪 Practicing **CTFs** (Web, Linux, basic crypto)  
+<table border="0">
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 Studying cybersecurity fundamentals  
+- 🧪 Practicing **CTFs** (Web, Linux, basics)  
 - 🔐 Learning **ethical hacking & offensive security concepts**  
-- 🌐 Exploring **web vulnerabilities** like SQL Injection & XSS  
-- 🛠️ Using tools on **Kali Linux** for hands-on practice  
-- 🎯 Goal: become a skilled **offensive security professional**
+- 🌐 Exploring **web vulnerabilities** like SQLi & XSS  
+- 🛠️ Using **Kali Linux tools** for hands-on practice  
+- 🎯 Goal: build strong foundations for **bug bounty & pentesting**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="280px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-chavanke-12695a323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-chavanke-12695a323)
 
 ---
 
-## 🧠 Knowledge & Skills
+# 🛠 Knowledge & Skills
 
-### 💻 Programming & Web
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-black?style=plastic&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3)
 
-### 🔐 Cybersecurity & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-
-### 🧪 Security Concepts
-- Web Security (SQL Injection, basic XSS)
-- CTF problem solving
-- Reconnaissance & enumeration
-- Prompt Engineering (AI-assisted security learning)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=plastic)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-chavanke&show_icons=true&theme=dark" />
-</p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-chavanke&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish-chavanke&theme=github_dark&show_icons=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ashish-chavanke&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-chavanke&layout=compact&theme=github_dark" />
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://i.imgur.com/1ToWEWw.png" width="350px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-<b>“Learn deeply. Practice honestly. Hack ethically.”</b>
-</p>
+<div align="center">
+
+**"Learn deeply. Practice honestly. Hack ethically."**
+
+</div>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
