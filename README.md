@@ -11,7 +11,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Ashish Chavanke** (**cyberash17**), a **Cybersecurity student** with strong interest in  
+I'm **Ashish Chavanke** , a **Cybersecurity student** with strong interest in  
 **ethical hacking, offensive security, CTFs, and bug bounty hunting**.
 
 I focus on **hands-on learning** — practicing attacks in labs, solving CTF challenges,  
